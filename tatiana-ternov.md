@@ -4,3 +4,4 @@
 **Cuntry:** RF
 **food:** Pizza
 **hobby:** web
+**favorite color** purple
